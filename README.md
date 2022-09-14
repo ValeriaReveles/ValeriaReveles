@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  I'm Valeria!</h1>
-<h3 align="center">A passionate full stack web development student at Codeup in San Antonio.</h3>
+<h3 align="center">Full stack web developer in San Antonio, TX. </h3>
 
 - 🔭 I’m currently working on **multiple Codeup projects and individual portfolio. Send tips!**
 
