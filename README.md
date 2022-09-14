@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Valeria!</h1>
 <h3 align="center">A passionate full stack web development student at Codeup in San Antonio.</h3>
 
-- 🔭 I’m currently working on **Multiple Codeup and personal projects**
+- 🔭 I’m currently working on **multiple Codeup projects and individual portfolio**
 
-- 🌱 I’m currently learning **HMTL, CSS, Bootstrap, JavaScript, Vue, Java, Spring, MySQL, OOP, Test-Driven Development, Networking**
+- 🌱 I’m currently learning **HMTL, CSS, Bootstrap, JavaScript, Vue, Java, Spring, MySQL, OOP, Test-Driven Development, and venturing into React and Python. I have dabbled in networking and hold Networking+ certification**
 
-- 🤝 I’m looking for help with **Breaking into the industry and improving skills.**
+- 🤝 I’m looking for help with **breaking into the industry and further improving skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValeriaReveles](https://github.com/ValeriaReveles)
 
-- 💬 Ask me about **Star Wars and comic books**
+- 💬 Ask me about **Star Wars, comic books, and random pop culture trivia**
 
 - 📫 How to reach me **valeriareveles12@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/valeriareveles/](https://www.linkedin.com/in/valeriareveles/)
 
-- ⚡ Fun fact **I once ate 4 bowls of ramen in one sitting. My picture hangs on a Ramen shop in Japan**
+- ⚡ Fun fact **I once ate 4 bowls of ramen in one sitting. My picture hangs in a Ramen shop in Japan**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/valeriareveles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeriareveles" height="30" width="40" /></a>
 </p>
 
