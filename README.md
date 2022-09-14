@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I once ate 4 bowls of ramen in one sitting. My picture hangs in a Ramen shop in Japan**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/valeriareveles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeriareveles" height="30" width="40" /></a>
 </p>
 
