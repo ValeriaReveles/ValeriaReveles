@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValeriaReveles](https://github.com/ValeriaReveles)
 
-- 💻 Check out my [Portfolio]([https://valeriareveles.github.io/Portfolio/])!
+- 💻 Check out my [Portfolio](https://valeriareveles.github.io/Portfolio/)!
 
 - 💬 Ask me about **Star Wars, comic books, and random pop culture trivia**
 
