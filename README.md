@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Valeria!</h1>
-<h3 align="center">Full stack web developer in San Antonio, TX. </h3>
 
-- 🔭 I’m currently working on **multiple Codeup Web Development curriculum and individual projects such as portfolio page.**
-
-- 🌱 I’m currently learning **HMTL, CSS, Bootstrap, JavaScript, Vue, Java, Spring, MySQL, OOP, Test-Driven Development, and venturing into other languages, such as Python, and frameworks/libraries such as React. I have dabbled in networking and hold Networking+ certification**
-
-- 🤝 I’m looking for help with **breaking into the industry and further improving skills. Help and mentorship greatly appreciated.**
+Software Developer and Navy Veteran with experience in all stages of web development and management. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ValeriaReveles](https://github.com/ValeriaReveles)
 
